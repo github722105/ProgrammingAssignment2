@@ -1,4 +1,6 @@
-
+## Author Ferdinand DeRamos
+## Date   2015-04-26
+##
 ## This function creates a special "matrix" object that can 
 ## cache its inverse.
 
